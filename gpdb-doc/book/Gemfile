@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem 'bookbindery'
+gem 'bookbindery', '>= 10.1.14'
 
 gem 'libv8', '3.16.14.7'
